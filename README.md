@@ -11,7 +11,9 @@ in xxx.hic. Citrus updates HiC and assemble and chromosome level sequences.
 ## quick start
 1. run Citrus
     1. clone code (in windows terminal CMD or linux terminal) using 
+    ```console
        >git clone https://github.com/anjiyuan/Citrus.git
+    ```
     2. **Linux or MacOs:**  > bash Citrus.sh
     3. **windows:** double click Citrus.bat
 2. outlook of Citrus
