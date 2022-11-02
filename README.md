@@ -10,8 +10,9 @@ Citrus which can edit super-scaffolds according to chromatin conformation data c
 in xxx.hic. Citrus updates HiC and assemble and chromosome level sequences.
 ## quick start
 1. run Citrus
-    1. **Linux or MacOs:**  > bash Citrus.sh
-    2. **windows:** double click Citrus.bat
+    1. git clone https://github.com/anjiyuan/Citrus.git
+    2. **Linux or MacOs:**  > bash Citrus.sh
+    3. **windows:** double click Citrus.bat
 2. outlook of Citrus
     ![image](image/citrus.png)
     after starting Citrus, the figure above is generated, "**Resolution(BP)**" dropdown menu 
