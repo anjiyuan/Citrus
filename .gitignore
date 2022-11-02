@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=maven
 
 ### Maven ###
+aaa
 target/
 pom.xml.tag
 pom.xml.releaseBackup
