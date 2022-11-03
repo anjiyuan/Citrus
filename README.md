@@ -23,7 +23,7 @@ Zooms in/out Hic data. "**refresh**" button is clicked to make the changes.
 The slider bar of "**color range**" changes the depth of color.
 3. Selecting block/blocks of interest
     1. Press shift + mouse-left-click: select one block (green block)
-       ![image](image/block_select.png)
+       ![image](image/select_block.png)
     2. control + mouse-left-click: select one chromosome block (blue block)
        ![image](image/ctrl_select.png)
 4. Moving the block?
